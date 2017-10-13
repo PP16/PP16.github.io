@@ -18,21 +18,21 @@ html {
 }
 
 body {
-	background: #000000;
+  background: http://media.graytvinc.com/images/generic+fire+2.jpg;
   font: #00ffff;
   color: #ffffff;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 850px;
   padding: 0 10px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #00ffff;
   font-weight: bold;
 
   line-height: 1.7;
