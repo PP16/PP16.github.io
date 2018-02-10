@@ -18,7 +18,7 @@ I used reflecting when I made the mistake of making my cloned sprites too slow.I
 
 I used engagement when my shooting code didn't work. Instead of doing nothing and being lazy because my code didn’t work, I engaged,focused and tried on it and in the end figured out that I was missing the option 'change y by…’!
 
-I could've focused more on my work(which would improve my progress) but a few times I was put off by failure. In the future I need to change my attitude to failure and persevere at all times and not just sometimes. I will do this by keep on playing with options for my code rather than just giving up.
+I could've focused more on my work(which would improve my progress) but a few times I was put off by failure. In the future I need to change my attitude to failure and persevere at all times and not just sometimes. I will do this by keep on playing with options for my code rather than just giving up!
 
                                                                                       
 
