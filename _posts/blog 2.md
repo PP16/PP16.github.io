@@ -6,7 +6,7 @@ permalink: PPI6.github.io
 source-id: 1M-yH7vzbPOTdJwPzNok3T8VTK_cu9acdQsNizZEdnpo
 published: true
 ---
-My target for my last lesson was to make  the aliens in my own space invaders game on scratch to move from left to right and down in synchronised action. It was mostly successful except I had a problem with some of the aliens being on top of eachother.          
+My target for my last lesson was to make  the aliens in my own space invaders game on scratch to move from left to right and down in synchronised action. It was mostly successful except I had a problem with some of the aliens being on top of eachother...        
 
 I used persevering when some of my aliens were on top of eachother, so i had to play around with my code by using options like 'go to x…,go to y…' until my aliens weren’t on top of each other and moving correctly.
 
